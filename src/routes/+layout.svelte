@@ -13,9 +13,7 @@
 		<a href="https://en.wikipedia.org/wiki/Webring" class="underline underline-offset-4"
 			>what's a webring</a
 		>
-		<a href="https://github.com/byt3h3ad/nitsring" class="underline underline-offset-4"
-			>how can i join?</a
-		>
+		<a href="https://git.new/nitsring" class="underline underline-offset-4">how can i join?</a>
 	</div>
 </nav>
 {@render children()}

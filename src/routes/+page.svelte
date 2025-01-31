@@ -5,11 +5,12 @@
 <main class="mx-auto grid max-w-3xl gap-6">
 	<section>
 		<p class="text-pretty">
-			Welcome to the official webring of students at the <a href="http://www.nits.ac.in/"
-				>National Institute of Technology, Silchar</a
+			Welcome to the official webring of students at the <a
+				href="http://www.nits.ac.in/"
+				target="_blank">National Institute of Technology, Silchar</a
 			>. This is an ongoing project to document our student body, all while making them more visible
 			to the public. If you're one of us, we welcome you with open
-			<a href="https://github.com/byt3h3ad/nitsring">PRs</a>).
+			<a href="https://git.new/nitsring" target="_blank">PRs</a>).
 		</p>
 	</section>
 	<section class="place-items-center">
@@ -29,7 +30,7 @@
 						<td class="text-right">{site.department}</td>
 						<td class="text-right">{site.year}</td>
 						<td class="text-right">
-							<a href={site.url} class="">{new URL(site.url).hostname}</a>
+							<a href={site.url} target="_blank">{new URL(site.url).hostname}</a>
 						</td>
 					</tr>
 				{/each}

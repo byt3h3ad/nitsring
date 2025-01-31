@@ -14,6 +14,10 @@ However, your pull request will only be approved after an identity check.
 
 - It is highly encouraged to mention the webring in your own sites as well!
 
+## Credits
+
+Stumbled upon [cs.uwatering.com](https://cs.uwatering.com/) while doomscrolling twtr and then [se-webring](https://github.com/simcard0000/se-webring/), ctrl + c, ctrl + v. And here we are.
+
 ## Developer note
 
 This is another web shenanigan of yours truly. Any PRs and issues and feedback are welcome!
