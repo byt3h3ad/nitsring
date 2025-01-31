@@ -3,7 +3,6 @@
  * https://developers.cloudflare.com/workers/wrangler/configuration/
  */
 {
-	"$schema": "node_modules/wrangler/config-schema.json",
 	"name": "nitsring",
 	"compatibility_date": "2025-01-29",
 	"pages_build_output_dir": ".svelte-kit/cloudflare",

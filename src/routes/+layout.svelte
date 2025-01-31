@@ -34,7 +34,7 @@
 
 <style>
 	:global(html) {
-		@apply bg-zinc-950 p-8 font-serif text-zinc-400;
+		@apply bg-zinc-950 p-4 font-serif text-zinc-300/90 md:p-8;
 	}
 	:global(a) {
 		@apply transition-colors duration-300 hover:text-zinc-50;
