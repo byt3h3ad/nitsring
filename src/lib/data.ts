@@ -6,5 +6,11 @@ export const SITES: Site[] = [
 		url: 'https://adhiraj.tech/',
 		year: 2025,
 		department: 'ECE'
+	},
+	{
+		name: 'Rupsnigdha Kashyap',
+		url: 'https://rupsnigdha.com/',
+		year: 2025,
+		department: 'CE'
 	}
 ];
