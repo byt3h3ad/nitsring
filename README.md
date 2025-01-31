@@ -1,38 +1,29 @@
-# sv
+# nits webring
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+A webring for undergraduate engineering students of NIT, Silchar.
 
-## Creating a project
+## What is a webring?
 
-If you're seeing this, you've probably already done this step. Congrats!
+A webring is a collection of websites linked together in a circular structure, usually organised around a specific theme or topic. Webrings were particularly popular in the 1990s and early 2000s as a way for websites with similar interests to promote each other and increase traffic. They provided a sense of community and collaboration among site owners and helped users discover new content in a pre-social media era.
 
-```bash
-# create a new project in the current directory
-npx sv create
+## How do I join?
 
-# create a new project in my-app
-npx sv create my-app
-```
+Just open a PR with the required information added in the `SITES` array in `src/lib/data.ts` file.
 
-## Developing
+However, your pull request will only be approved after an identity check.
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+- It is highly encouraged to mention the webring in your own sites as well!
 
-```bash
-npm run dev
+## Developer note
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+This is another web shenanigan of yours truly. Any PRs and issues and feedback are welcome!
 
-## Building
+Some features to implement (when I find the motivation and time to do them):
 
-To create a production version of your app:
+- [ ] Add a logo and og image. Designers needed!
 
-```bash
-npm run build
-```
+- [ ] Assign an ID to each website, mentioning which it will redirect to neighbouring websites.
 
-You can preview the production build with `npm run preview`.
+- [ ] Implement search feature. The way I am thinking is either using [fuse.js](https://www.fusejs.io/) or wait till [Tanstack Table](https://tanstack.com/table/latest) supports Svelte 5.
 
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+- [ ] UI/UX and documentation changes. I have negative design sense.
