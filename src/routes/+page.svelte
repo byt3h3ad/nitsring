@@ -10,7 +10,7 @@
 				target="_blank">National Institute of Technology, Silchar</a
 			>. This is an ongoing project to document our student body, all while making them more visible
 			to the public. If you're one of us, we welcome you with open
-			<a href="https://git.new/nitsring" target="_blank">PRs</a>).
+			<a href="https://git.new/nitsring" target="_blank">PRs</a>.
 		</p>
 	</section>
 	<section class="place-items-center">
