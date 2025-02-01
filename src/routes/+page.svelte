@@ -13,8 +13,8 @@
 			<a href="https://git.new/nitsring" target="_blank">PRs</a>.
 		</p>
 	</section>
-	<section class="grid place-items-center @container">
-		<table class="overflow-auto border border-zinc-200">
+	<section class="grid place-items-center">
+		<table class="overflow-x-auto border border-zinc-200">
 			<thead>
 				<tr class="bg-zinc-800">
 					<th class="text-left">Name</th>

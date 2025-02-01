@@ -5,7 +5,7 @@
 
 <svelte:head>
 	<title>nits webring</title>
-	<meta name="description" content="This is where the description goes for SEO" />
+	<meta name="description" content="nit silchar engineering undergrad webring" />
 </svelte:head>
 <nav class="flex items-center justify-between pb-10">
 	<a href="/">NIT Silchar Webring</a>
