@@ -1,5 +1,6 @@
 <script lang="ts">
 	import '../app.css';
+	import '@fontsource-variable/geist';
 	let { children } = $props();
 </script>
 
@@ -32,7 +33,8 @@
 
 <style>
 	:global(html) {
-		@apply bg-zinc-950 p-4 font-serif text-zinc-300/90 md:p-8;
+		font-family: 'Geist Variable', sans-serif;
+		@apply bg-zinc-950 p-4 text-zinc-300/90 md:p-8;
 	}
 	:global(a) {
 		@apply transition-colors duration-300 hover:text-zinc-50;
