@@ -14,5 +14,13 @@ export const SITES: Site[] = [
 		url: 'https://rupsnigdha.com/',
 		year: 2025,
 		department: 'CE'
+	},
+	{
+		id: 3,
+		name: 'Bijay Jiwrajka',
+		url: 'https://bj-jiwrajka.me/',
+		year: 2025,
+		department: 'CSE'
 	}
+
 ];
