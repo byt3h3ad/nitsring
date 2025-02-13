@@ -21,6 +21,12 @@ export const SITES: Site[] = [
 		url: 'https://bj-jiwrajka.me/',
 		year: 2025,
 		department: 'CSE'
+	},
+	{
+		id: 4,
+		name: 'Barnil Sarma',
+		url: 'https://portfolio-six-khaki-81.vercel.app/',
+		year: 2026,
+		department: 'ECE'
 	}
-
 ];
