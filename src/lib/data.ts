@@ -18,7 +18,7 @@ export const SITES: Site[] = [
 	{
 		id: 3,
 		name: 'Bijay Jiwrajka',
-		url: 'https://bj-jiwrajka.me/',
+		url: 'https://bijay.tech/',
 		year: 2025,
 		department: 'CSE'
 	},
