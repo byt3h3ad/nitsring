@@ -26,6 +26,8 @@ You can mention your neighbouring websites using our api!
 
 Replace `your-id` with umm your `id`.
 
+You can also redirect to a random website from the ring by using `https://nitsring.pages.dev/api/random`.
+
 ## Credits
 
 Stumbled upon [cs.uwatering.com](https://cs.uwatering.com/) while doomscrolling twtr and then [se-webring](https://github.com/simcard0000/se-webring/), ctrl + c, ctrl + v. And here we are.
