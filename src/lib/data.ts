@@ -28,5 +28,12 @@ export const SITES: Site[] = [
 		url: 'https://portfolio-six-khaki-81.vercel.app/',
 		year: 2026,
 		department: 'ECE'
+	},
+	{
+		id: 5,
+		name: 'Jaydeep Das',
+		url: 'https://jay.deepis.fun/',
+		year: 2025,
+		department: 'CSE'
 	}
 ];
